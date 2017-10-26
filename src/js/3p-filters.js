@@ -240,6 +240,7 @@ var renderFilterLists = function(soft) {
                 'social',
                 'multipurpose',
                 'regions',
+                'coinminer'
                 'custom'
             ];
         for ( i = 0; i < groupKeys.length; i++ ) {

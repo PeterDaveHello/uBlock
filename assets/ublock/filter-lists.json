@@ -371,5 +371,11 @@
 		"group": "regions",
 		"lang": "sl",
 		"supportURL": "https://github.com/betterwebleon/slovenian-list"
+	},
+	"https://github.com/hoshsadiq/adblock-nocoin-list/raw/master/nocoin.txt": {
+		"off": true,
+		"title": "NoCoin adblock list",
+		"group": "coinminer",
+		"supportURL": "https://github.com/hoshsadiq/adblock-nocoin-list"
 	}
 }

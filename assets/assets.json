@@ -131,6 +131,14 @@
 		"supportURL": "https://github.com/AdguardTeam/AdguardFilters#adguard-filters",
 		"instructionURL": "https://kb.adguard.com/en/general/adguard-ad-filters#privacy"
 	},
+	"adblock-nocoin-list": {
+		"content": "filters",
+		"group": "coinminer",
+		"off": true,
+		"title": "NoCoin adblock list",
+		"contentURL": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
+		"supportURL": "https://github.com/hoshsadiq/adblock-nocoin-list",
+	},
 	"easyprivacy": {
 		"content": "filters",
 		"group": "privacy",
